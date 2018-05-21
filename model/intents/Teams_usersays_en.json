@@ -1,0 +1,68 @@
+[
+  {
+    "id": "f7d1d0cb-c85b-4055-a21c-f04444c4d244",
+    "data": [
+      {
+        "text": "Can you tell me more about ",
+        "userDefined": false
+      },
+      {
+        "text": "Country",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526032030
+  },
+  {
+    "id": "f12f472b-b8ef-401f-98be-41379240f683",
+    "data": [
+      {
+        "text": "Who\u0027s ",
+        "userDefined": false
+      },
+      {
+        "text": "Country",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " best player ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526032030
+  },
+  {
+    "id": "24d26aa6-45fe-480d-b44b-31259e43c799",
+    "data": [
+      {
+        "text": "How many times ",
+        "userDefined": false
+      },
+      {
+        "text": "Country",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " won the world cup ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526032030
+  }
+]

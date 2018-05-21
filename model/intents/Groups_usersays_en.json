@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ba9593ea-56d0-4a71-a700-b83a30b227a4",
+    "data": [
+      {
+        "text": "What\u0027s the ranking of groupe ",
+        "userDefined": false
+      },
+      {
+        "text": "Groupe_name",
+        "alias": "Groupe_names",
+        "meta": "@Groupe_names",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526031860
+  },
+  {
+    "id": "b24d0a6a-dd8c-4acd-86ac-635226aed89b",
+    "data": [
+      {
+        "text": "Whats the position of ",
+        "userDefined": false
+      },
+      {
+        "text": "Country",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " in groupe stages ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526031860
+  },
+  {
+    "id": "4a01ed27-5dff-4763-ba95-fc1e57ba6cf0",
+    "data": [
+      {
+        "text": "Who qualified for knock out in groupe ",
+        "userDefined": false
+      },
+      {
+        "text": "Groupe_name",
+        "alias": "Groupe_names",
+        "meta": "@Groupe_names",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526031860
+  },
+  {
+    "id": "7eb6a11d-ae20-4c2d-8d1f-33e5059944ec",
+    "data": [
+      {
+        "text": "What are the teams of groupe ",
+        "userDefined": false
+      },
+      {
+        "text": "Groupe_name",
+        "alias": "Groupe_names",
+        "meta": "@Groupe_names",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526031860
+  }
+]

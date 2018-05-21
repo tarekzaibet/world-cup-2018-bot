@@ -1,0 +1,43 @@
+{
+  "id": "89db8e60-3c87-4489-b748-3d500b809bc0",
+  "name": "Groups",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3c8200c9-6ec9-48a1-892b-af27bdea9029",
+          "dataType": "@Groupe_names",
+          "name": "Groupe_names",
+          "value": "$Groupe_names",
+          "isList": false
+        },
+        {
+          "id": "b2347a9c-d5f8-4186-b896-03602d034772",
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1526031860,
+  "fallbackIntent": false,
+  "events": []
+}

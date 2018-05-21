@@ -1,0 +1,64 @@
+[
+  {
+    "value": "A",
+    "synonyms": [
+      "A",
+      "a"
+    ]
+  },
+  {
+    "value": "B",
+    "synonyms": [
+      "B",
+      "b"
+    ]
+  },
+  {
+    "value": "C",
+    "synonyms": [
+      "C",
+      "c"
+    ]
+  },
+  {
+    "value": "D",
+    "synonyms": [
+      "D",
+      "d"
+    ]
+  },
+  {
+    "value": "E",
+    "synonyms": [
+      "E",
+      "e"
+    ]
+  },
+  {
+    "value": "F",
+    "synonyms": [
+      "F",
+      "f"
+    ]
+  },
+  {
+    "value": "G",
+    "synonyms": [
+      "G",
+      "g"
+    ]
+  },
+  {
+    "value": "H",
+    "synonyms": [
+      "H",
+      "h"
+    ]
+  },
+  {
+    "value": "Groupe_name",
+    "synonyms": [
+      "Groupe_name"
+    ]
+  }
+]

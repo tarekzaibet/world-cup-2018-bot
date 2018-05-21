@@ -1,0 +1,120 @@
+[
+  {
+    "id": "651b790d-c089-4cf3-a62c-5b760eb77f1d",
+    "data": [
+      {
+        "text": "Who will ",
+        "userDefined": false
+      },
+      {
+        "text": "Country",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " play next",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526031395
+  },
+  {
+    "id": "3877b9f6-c90b-4529-8057-eed66d2727dc",
+    "data": [
+      {
+        "text": "whats the result of the game ",
+        "userDefined": false
+      },
+      {
+        "text": "Country",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " against ",
+        "userDefined": false
+      },
+      {
+        "text": "Country",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526031395
+  },
+  {
+    "id": "0a4fbf0f-03b4-4f18-bc45-c0fc3d9f024a",
+    "data": [
+      {
+        "text": "Whats the result of ",
+        "userDefined": false
+      },
+      {
+        "text": "Country",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " Last game ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526031395
+  },
+  {
+    "id": "c6245d30-ff4f-4fc0-a587-20f2455fba3a",
+    "data": [
+      {
+        "text": "When is the next game of ",
+        "userDefined": false
+      },
+      {
+        "text": "Country",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526031395
+  },
+  {
+    "id": "9f89b041-adfe-4d44-8fc2-b687c8cb0a1a",
+    "data": [
+      {
+        "text": "when is the next game ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526031395
+  },
+  {
+    "id": "76b7f6be-e011-45ef-8e65-8754ecc31f35",
+    "data": [
+      {
+        "text": "How many games left ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526031395
+  }
+]

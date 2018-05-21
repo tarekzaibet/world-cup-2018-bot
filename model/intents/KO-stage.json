@@ -1,0 +1,28 @@
+{
+  "id": "3cdd6aa7-dabf-420f-9dca-75c1beb594c3",
+  "name": "KO-stage",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526039202,
+  "fallbackIntent": false,
+  "events": []
+}
